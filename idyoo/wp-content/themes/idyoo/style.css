@@ -24,4 +24,12 @@ Theme Name:   Idyoo
 .boss-basic, .boss-plus {margin-right: 0.5em !important;}
 .boss-basic, .boss-plus, .boss-premium {width: 24em !important;}
 .boss-group img {width: 50.4em !important; height: 22em !important;}
-.dropdown-lang {background-color: #000;}
+.dropdown-lang button {text-align: left; width: 9.5em; background-color: #49240d; color: #fff; border: none;}
+.dropdown-lang .dropdown-menu {background-color: #000; list-style-type: none;}
+.btn-nwletter {text-align: left; width: 9.5em; background: #49240d; color: #fff; border: none;}
+.caret {position: absolute; top: 13px; right: 8px;}
+.widget_text h4 {color: #fff;}
+.textwidget a {color: #fff;}
+.idyoo-title {padding-bottom: 0;}
+.idyoo-tag {padding-bottom: 0; color: #c55f00;}
+.idyoo-c {color: #c55f00; font-size: 2.5em; font-weight: 600;}
