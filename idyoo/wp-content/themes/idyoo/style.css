@@ -1,0 +1,27 @@
+/*
+Theme Name:   Idyoo
+ Description:  Customized theme with Divi as the base theme
+ Author:       Unileap
+ Template:     Divi
+ Version:      1.0.0
+*/
+
+@import url("../Divi/style.css");
+
+.et_menu_container {padding: 0;}
+#page-container {padding: 0 !important;}
+#et-top-navigation {background-color: #C47128; background:-webkit-linear-gradient(top, #C47128, #552C16);}
+#top-menu li a {color: #fff;}
+.et_fixed_nav #et-top-navigation {border-bottom-left-radius: 12px; -webkit-border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; -webkit-border-bottom-right-radius: 12px;}
+#main-header {-webkit-box-shadow: none; box-shadow: none; background-color: transparent !important;}
+
+@media (min-width: 981px) {
+  .footer-widget {width: 19% !important; margin-right: 1% !important;}
+}
+
+.btn-about > .et_pb_column_7 {margin-right: 0.5em !important;}
+.signup-boss {margin-right: 0.5em !important;}
+.boss-basic, .boss-plus {margin-right: 0.5em !important;}
+.boss-basic, .boss-plus, .boss-premium {width: 24em !important;}
+.boss-group img {width: 50.4em !important; height: 22em !important;}
+.dropdown-lang {background-color: #000;}
